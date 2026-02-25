@@ -93,6 +93,7 @@ This prevents false steps from:
 
 ```text
 📦 Step-Detection-System
+ ┣ 📄 README.md              # Project documentation
  ┣ 📄 SOURCE_CODE.ino        # Arduino firmware
  ┣ 📄 Step Detection.pdf     # Full project report
- ┣ 📄 README.md              # Project documentation
+
